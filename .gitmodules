@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/keiko_msgs"]
+	path = catkin_ws/src/keiko_msgs
+	url = git@github.com:HenrikTrom/keiko_msgs.git
